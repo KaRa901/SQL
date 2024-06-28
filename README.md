@@ -1,2 +1,2 @@
 # SQL
-SQL Queries Repository
+SQL Example Queries Repository
